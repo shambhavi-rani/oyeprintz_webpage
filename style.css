@@ -1,0 +1,173 @@
+.header-footer{
+	background: #33cc33;
+            background: -webkit-linear-gradient(to bottom, #258e25, #33cc33);
+            background: -moz-linear-gradient(to bottom, #258e25, #33cc33);
+            background: linear-gradient(to bottom, #258e25, #33cc33);
+	
+}
+#header{
+	position:absolute;
+	top:0%;
+	left:0%;
+	height:20%;
+	width:100%;
+}
+#footer{
+	position:absolute;
+	top:1100px;
+	left:0%;
+	height:7%;
+	width:100%;
+}
+#main-navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+
+.nav-bar {
+    float: left;
+}
+
+.nav-bar a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 18px 16px;
+    text-decoration: none;
+	font-size:20px;
+	font-family:
+}
+
+.nav-bar a:hover {
+    background-color: #2aa22a;
+}
+#nav-bar{
+	position:absolute;
+	top:61%;
+	left:50%;
+	width:40%;
+	height:10%;
+}
+#copyright{
+	color:white;
+	position:absolute;
+	top:5%;
+	left:10%;
+	font-size:15px;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+#side-navbar{
+	position:absolute;
+	top:21%;
+	left:3%;
+	width:20%;
+	height:90%;
+}
+#side-nav{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.side-nav{
+	font-size:20px;
+	background-color:black;
+	opacity:.8;
+	border:2px #051405 solid;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+.side-nav a{
+	padding:15px 20px;
+	display:block;
+	color:white;
+	text-decoration:none;
+}
+.side-nav a:hover{
+	background-color:#2fb62f;
+}
+.btn{
+	background-color:#85e085;
+	color:#29a329;
+	font-size:20px;
+	padding:15px 15px;
+	border:2px #29a329 solid;
+	border-radius:10px;
+	cursor:pointer;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+.btn:hover{
+	background-color:#2fb62f;
+	color:white;
+}
+#btn2{
+	position:absolute;
+	top:1035px;
+	left:75%;
+}
+#btn1{
+	position:absolute;
+	top:1035px;
+	left:5%;
+}
+#mid-content{
+	border:2px #0a290a solid;
+	border-radius:5px;
+	position:absolute;
+	top:21%;
+	left:27%;
+	width:64%;
+	padding:10px 10px 10px 10px;
+	font-size:18px;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+#qbox1{
+	position:absolute;
+	color:#00663d;
+	top:2px;
+	left:11%;
+	font-size:55px;
+	font-weight:600;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+#qbox2{
+	position:absolute;
+	color:#00331f;
+	top:0px;
+	left:10%;
+	font-size:60px;
+	font-weight:800;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+#image{
+	height:460px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
